@@ -1,4 +1,10 @@
+<<<<<<< HEAD
+123456
+123456
+
+=======
 nijashkdhsakdhaskjhdkjash89798798797jqwehkqjwhekjqwhe97e987wq98e7qgwqjegwqjegqjwhgjhwjhgwwjhqgejhqweghjqgw
+>>>>>>> cf1e2807e0a50ab04626604b6835ee6f4cdee96f
 eefefefewfewsdfdsdfsdqqq1111221212121
 weqwewqhjhfgjshgsajfjashgfjhsgjh1111111111111111111111111111111111111111111111111111111	1
 sadadsadszengziqiang
@@ -7,7 +13,7 @@ zengziqinag
 zengziqinag
 zengziqiang
 zengziqiang
-
+d1111111111111111111111111111111111111111111111111111111111111111111111111111
 fgfdgfdgfdgdfdfg
 
 曾秭强
